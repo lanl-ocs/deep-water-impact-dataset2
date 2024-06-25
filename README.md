@@ -75,6 +75,12 @@ v03    FLOAT     _   _     27000000  4.00 B     0       "-0.0" / "0.988359"
 
 ```
 
+# Sample Movies
+
+| v02 (water) | v03 (asteroid) |
+| :---: | :---: |
+| ![water](v02.gif) | ![asteroid](v03.gif) |
+
 # Acknowledgement
 
 The deep water asteroid impact dataset represents the study of asteroid impacts in deep ocean water. NASA’s Planetary Defense Coordination Office is keenly interested to know the lower size limit of dangerous asteroids, so as to focus resources on finding all larger objects that potentially threaten the earth. Since most of the planet’s surface is water, that is where asteroids will most likely impact. This observation has generated a serious debate over the last two decades on just how dangerous impact-induced waves or tsunamis are to populated shorelines. Check their [paper](https://datascience.dsscale.org/wp-content/uploads/2017/08/VisualizationAndAnalysisOfThreatsFromAsteroidOceanImpacts.pdf) and the [video](https://www.youtube.com/watch?v=yeXcgnj8AG0) for more information regarding this fun dataset.

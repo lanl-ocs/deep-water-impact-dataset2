@@ -77,9 +77,9 @@ v03    FLOAT     _   _     27000000  4.00 B     0       "-0.0" / "0.988359"
 
 # Sample Movies
 
-| v02 (water) | v03 (asteroid) |
+| v03 (asteroid) | v02 (water) |
 | :---: | :---: |
-| ![water](v02.gif) | ![asteroid](v03.gif) |
+| ![asteroid](v03.gif) | ![water](v02.gif) |
 
 # Acknowledgement
 
